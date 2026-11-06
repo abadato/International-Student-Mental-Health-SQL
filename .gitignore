@@ -1,0 +1,12 @@
+
+# Raw participant-level data
+data/raw/
+
+# Local VS Code and SQLTools files
+.vscode/
+*.session.sql
+
+# Environment and temporary files
+.DS_Store
+.env
+*.log
