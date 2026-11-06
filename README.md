@@ -172,7 +172,7 @@ Potential extensions include multivariable regression, confidence intervals, mod
 
 ## Data Source and Acknowledgments
 
-**To be completed:** Original dataset citation, publication or repository URL, license, and questionnaire documentation.
+The dataset used in this project was accessed through resources discovered on DataSciencePortfol.io – SQL Projects.
 
 ## Author
 
