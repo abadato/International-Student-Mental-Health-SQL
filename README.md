@@ -12,7 +12,6 @@ The analysis demonstrates a reproducible SQL workflow, from importing and valida
 
 **Dataset:** Student mental health survey data (286 imported records; 268 retained for student-level analysis).
 
-*Dataset source, licensing information, questionnaire definitions, and measurement units will be documented after verification.*
 
 ## Research Questions
 
